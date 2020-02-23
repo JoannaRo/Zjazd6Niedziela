@@ -7,3 +7,9 @@ li {
     background-color: lightblue;
     color: brown;
 }
+
+.branches {
+    font-size: 25px;
+    margin: 2px solid;
+    color: black;
+}
